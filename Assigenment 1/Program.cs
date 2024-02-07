@@ -173,5 +173,3 @@ class Program
     }
 }
 
-https://youtu.be/mAPlNkRufBo
-
